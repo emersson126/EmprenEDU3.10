@@ -1,4 +1,4 @@
-# VideoHub
+# EmprenEDU 4.1
 A video sharing platform.
 A rough client-server architecture replica of YouTube with Flask and MySQL.
 
